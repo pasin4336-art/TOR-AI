@@ -1,0 +1,6 @@
+{
+  "name": "ระบบ AI วิเคราะห์และเปรียบเทียบ TOR พัสดุ (LPR Procurement Analysis System)",
+  "description": "ระบบสนับสนุนเจ้าหน้าที่พัสดุในการวิเคราะห์ เปรียบเทียบ และประเมิน TOR ระบบตรวจจับทะเบียนรถ (LPR) ด้วยคะแนนเรดาร์ชาร์ต จุดเด่น-จุดด้อย และข้อเสนอแนะเชิงราชการอย่างเป็นทางการ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
